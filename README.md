@@ -11,3 +11,5 @@ Second line from my "Sample-Branch"
 Deleted second line and third line statements
 
 Adding some junk additional statements
+
+After changing Master, I am trying to add more statements here
