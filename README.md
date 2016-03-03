@@ -6,3 +6,7 @@ This is my first line of code
 This is my second line of code
 
 This is my third line of code
+
+Adding this from my "Sample-Branch"
+
+Second line from my "Sample-Branch"
